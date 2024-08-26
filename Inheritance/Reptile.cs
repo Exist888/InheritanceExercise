@@ -6,7 +6,7 @@ namespace Inheritance;
 
 public class Reptile : Animal
 {
-    // Inheriting Class - 4 Members that belong to Class Reptile
+    // Inheriting Class - Members that belong to Class Reptile
     
     // Field
     public string _teethOrNo;
